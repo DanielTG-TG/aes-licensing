@@ -1,2 +1,2 @@
 # aes-licesing
-.Net AES licesing for your application. May be very usefull.
+.Net AES Encrypted licesing for your application. May be very usefull.
