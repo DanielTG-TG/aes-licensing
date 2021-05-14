@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Licesing\Licesing\bin\Debug\Licesing.exe.config
+C:\Users\Daniel\source\repos\Licesing\Licesing\bin\Debug\Licesing.exe
+C:\Users\Daniel\source\repos\Licesing\Licesing\bin\Debug\Licesing.pdb
+C:\Users\Daniel\source\repos\Licesing\Licesing\obj\Debug\Licesing.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Licesing\Licesing\obj\Debug\Licesing.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Licesing\Licesing\obj\Debug\Licesing.exe
+C:\Users\Daniel\source\repos\Licesing\Licesing\obj\Debug\Licesing.pdb
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\Build\Licesing.exe.config
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\Build\Licesing.exe
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\Build\Licesing.pdb
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\LicesingConsole\Licesing\obj\Debug\Licesing.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\LicesingConsole\Licesing\obj\Debug\Licesing.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\LicesingConsole\Licesing\obj\Debug\Licesing.exe
+C:\Users\Daniel\Desktop\Licesing1\aes-licesing\Licesing1\LicesingConsole\Licesing\obj\Debug\Licesing.pdb
